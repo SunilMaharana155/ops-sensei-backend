@@ -3,7 +3,7 @@ import os
 import uuid
 from typing import List
 from google.cloud import storage, firestore
-from pypdf2 import PdfReader
+from PyPDF2 import PdfReader
 import vertexai
 from vertexai.language_models import TextEmbeddingModel
 
